@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Uend
 `CS Graduate | Cybersecurity Specialist | Network Automation Engineer`  
-🔌 Building network automation solutions with Python and Netmiko  
-🔒 Passionate about malware analysis, zero-day research, and web vulnerabilities  
-📍 Currently pursuing CCNA → Security+ certification path  
+ Building network automation solutions with Python and Netmiko  
+ Passionate about malware analysis, zero-day research, and web vulnerabilities  
+ Currently pursuing CCNA → Security+ certification path  
 
 ---
 
